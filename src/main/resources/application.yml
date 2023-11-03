@@ -1,0 +1,6 @@
+server:
+  port: 8090
+
+aws:
+  access-key: AKIASJM62UIRYXAROUVH
+  secret-key: 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
