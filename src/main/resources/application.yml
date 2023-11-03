@@ -4,3 +4,6 @@ server:
 aws:
   access-key: AKIASJM62UIRYXAROUVH
   secret-key: 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
+  dynamodb:
+    endpoint: dynamodb.eu-north-1.amazonaws.com
+    region: eu-north-1
